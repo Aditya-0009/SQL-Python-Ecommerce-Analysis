@@ -26,7 +26,7 @@ Using **SQL and Python**, we aim to uncover key insights about customer behavior
 - **EcommerceQueries.sql** – SQL query file
 - **Questions.txt** – List of business questions
 - **csv_to_sql.py** – (Optional) Convert CSVs to SQL
-- **README.md**
+
 
 ---
 
