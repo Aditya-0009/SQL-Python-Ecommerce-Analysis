@@ -18,26 +18,33 @@ This project analyzes an ecommerce dataset using **SQL** and **Python** to extra
 
 ## 🗂️ Project Files
 
-├── Data/ # Raw dataset (excluded via .gitignore)
-├── Queries.ipynb # Python analysis + plots
-├── EcommerceQueries.sql # SQL query file
-├── Questions.txt # List of business questions
-├── csv_to_sql.py # (Optional) Convert CSVs to SQL
+
+├── Data/                 # Raw dataset (excluded via .gitignore)
+├── Queries.ipynb         # Python analysis + plots
+├── EcommerceQueries.sql  # SQL query file
+├── Questions.txt         # List of business questions
+├── csv_to_sql.py         # (Optional) Convert CSVs to SQL
 └── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
 ## 📌 Note
 
-- The `Data/` folder is not included in the repo.
+- The `Data/` folder is not included in this repo.
 - Please download the dataset manually from Kaggle to run the project locally.
 
 ---
 
-## 👤 Author
+## 👨‍💻 Created By
 
-[Aditya Raj](https://github.com/Aditya-0009) • [LinkedIn](https://www.linkedin.com/in/aditya-0009/)
+**Aditya Raj**  
+> Third-year B.Tech CSE | Bennett University  
+> AI Enthusiast
+
+- 📧 Email: [technoadityaraj@gmail.com](mailto:technoadityaraj@gmail.com)  
+- 💻 GitHub: [@Aditya-0009](https://github.com/Aditya-0009)  
+- 👔 LinkedIn: [Aditya Raj](https://www.linkedin.com/in/aditya-raj-0009/)  
+- 📸 Instagram: [@ig._adi_](https://www.instagram.com/ig._adi_/)
+
+---
