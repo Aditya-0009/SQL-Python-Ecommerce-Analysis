@@ -41,7 +41,7 @@ Using **SQL and Python**, we aim to uncover key insights about customer behavior
 
 **Aditya Raj**  
 > Third-year B.Tech CSE | Bennett University  
-> AI Enthusiast
+> Passionate about AI, Machine Learning, Data Science, and Analytics 
 
 - 📧 Email: [technoadityaraj@gmail.com](mailto:technoadityaraj@gmail.com)  
 - 💻 GitHub: [@Aditya-0009](https://github.com/Aditya-0009)  
