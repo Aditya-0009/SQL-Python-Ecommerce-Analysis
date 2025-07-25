@@ -1,6 +1,9 @@
 # 🛒 Ecommerce Sales Analysis (SQL + Python)
 
-This project analyzes an ecommerce dataset using **SQL** and **Python** to extract insights on customer behavior, sales trends, seller performance, and order patterns.
+This project explores an **Ecommerce dataset from Kaggle** that includes details about orders, customers, products, sellers, reviews, and more.  
+Using **SQL and Python**, we aim to uncover key insights about customer behavior, sales performance, product categories, delivery patterns, and seller efficiency.
+
+🔍 **Goal**: To perform **data analysis and visualization** to answer real-world business questions and improve decision-making for ecommerce operations.
 
 📊 **Dataset**: [Kaggle - Target Dataset](https://www.kaggle.com/datasets/devarajv88/target-dataset)  
 📁 **Queries**: See `Questions.txt` and `EcommerceQueries.sql`  
@@ -18,14 +21,12 @@ This project analyzes an ecommerce dataset using **SQL** and **Python** to extra
 
 ## 🗂️ Project Files
 
-
-├── Data/                 # Raw dataset (excluded via .gitignore)
-├── Queries.ipynb         # Python analysis + plots
-├── EcommerceQueries.sql  # SQL query file
-├── Questions.txt         # List of business questions
-├── csv_to_sql.py         # (Optional) Convert CSVs to SQL
-└── README.md
-
+- **Data/** – Raw dataset (excluded via .gitignore)
+- **Queries.ipynb** – Python analysis + plots
+- **EcommerceQueries.sql** – SQL query file
+- **Questions.txt** – List of business questions
+- **csv_to_sql.py** – (Optional) Convert CSVs to SQL
+- **README.md**
 
 ---
 
